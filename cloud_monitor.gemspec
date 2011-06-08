@@ -3,14 +3,14 @@ $:.push File.expand_path("../lib", __FILE__)
 require "cloud_monitor/version"
 
 Gem::Specification.new do |s|
-  s.name        = "Quick Cloud Monitor"
+  s.name        = "Cloud Monitor"
   s.version     = CloudMonitor::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
+  s.authors     = ["Write your name"]
+  s.email       = [" Write your email address"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Write a gem summary}
+  s.description = %q{Write a gem description}
 
   s.rubyforge_project = "qcm"
 
