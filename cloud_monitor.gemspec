@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "cloud_monitor/version"
 
 Gem::Specification.new do |s|
-  s.name        = "Cloud Monitor"
+  s.name        = "cloud_monitor"
   s.version     = CloudMonitor::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Write your name"]
