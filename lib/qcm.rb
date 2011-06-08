@@ -1,3 +1,0 @@
-module Qcm
-  # Your code goes here...
-end
