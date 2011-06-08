@@ -13,7 +13,7 @@ module CloudMonitor
     File.expand_path('../..', __FILE__)
   end
 
-  def self.store!(args*)
+  def self.store!(*args)
     @store << args
     
   end
